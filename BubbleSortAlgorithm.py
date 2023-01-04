@@ -4,7 +4,7 @@ import random
 def printer(spc):
 	print(lst,'\n ','   '*(spc-1),'^  ^',sep='')
 lst=[]
-if input('Do you want to enter your own list (if yes enter yes) : ')=='yes' or 'Yes':
+if input('Do you want to enter your own list (if yes enter yes) : ')==('yes' or 'Yes'):
 	for i in range(1,10):
 		lst.append(int(input(f'Enter {i} value : ')))
 
