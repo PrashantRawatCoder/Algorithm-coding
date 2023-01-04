@@ -1,3 +1,7 @@
+'''
+Name : Prashant Rawat
+Date : 3/01/2023	
+'''
 import random
 
 #function to print list 
